@@ -1,0 +1,17 @@
+{
+  "dataStats" :
+              [
+                {
+                  "id": 1,
+                  "name": "dataSet1",
+                  "numberOfRecords": 10,
+                  "numberOfColumns": 5
+                },
+                {
+                  "id": 2,
+                  "name": "dataSet2",
+                  "numberOfRecords": 12,
+                  "numberOfColumns": 7
+                }
+              ]
+}
